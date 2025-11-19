@@ -19,14 +19,8 @@
   },
   {
     "id": 4,
-    "name": "Error 404",
-    "photo": "miembro4.png",
-    "description": "Este miembro fue reemplazado recientemente.",
-    "replacedBy": {
-      "id": 5,
-      "name": "Tommy Alava (El New)",
+    "name": "Tommy Alava (El New)",
       "photo": "miembro_nuevo.png",
       "description": "El nuevo integrante, pero no el más tímido. Llegó sin hacer ruido… y terminó siendo pieza clave. Colaborativo, constante y bastante disciplinado. No espera que le digan qué hacer; pregunta, propone y avanza. Además, tiene una responsabilidad importante: desarrollar C.U.B.A, otro proyecto que crece al mismo ritmo que él. Y es que, con actitud y trabajo silencioso, ha demostrado que sumar al grupo no siempre significa sobresalir… sino empujar desde atrás cuando nadie lo espera. Es el nuevo impulso que va a mantener la rueda girando."
-    }
   }
 ]
